@@ -1,0 +1,6 @@
+{
+  "name": "Hồ Sơ Di Sản Lễ Hội Cầu Ngư Nam Trung Bộ",
+  "description": "Hồ sơ số di sản văn hóa phi vật thể quốc gia về Lễ hội Cầu ngư, nghi thức Nghinh Ông, diễn xướng hát múa Bả Trạo và tín ngưỡng ngư dân miền biển Nam Trung Bộ.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
